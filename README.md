@@ -1,8 +1,8 @@
 # 🛠️ Atividade Prática SPONDEO
 
-[cite_start]Bem-vindos à atividade prática do nosso Workshop de CI/CD para a disciplina de Testes e Manutenção de Software da UFU[cite: 1, 2, 3]! 🚀
+Bem-vindos à atividade prática do nosso Workshop de CI/CD para a disciplina de Testes e Manutenção de Software da UFU! 🚀
 
-[cite_start]Este repositório contém uma versão simplificada do motor de validação de vagas do projeto **SPONDEO**[cite: 141]. [cite_start]Nós configuramos uma pipeline de Integração Contínua (CI) usando o **GitHub Actions**[cite: 134].
+Este repositório contém uma versão simplificada do motor de validação de vagas do projeto **SPONDEO**. Nós configuramos uma pipeline de Integração Contínua (CI) usando o **GitHub Actions**.
 
 **O Problema:** Nossa equipe sabotou o projeto de propósito! Espalhamos **10 falhas lógicas** na nossa suite de testes unitários. O código de produção diz uma coisa, mas o teste espera outra.
 
@@ -31,9 +31,9 @@ Não é necessário clonar o projeto ou instalar o Java na sua máquina! Você p
 
 ### 👨‍💻 Equipe
 Desenvolvido para o Workshop de Automação de Pipelines por:
-* [cite_start]Caio Soares [cite: 5]
-* [cite_start]Nicolly Ribeiro [cite: 6]
-* [cite_start]Raphael Muniz [cite: 7]
-* [cite_start]Ygor Marangoni [cite: 8]
+* Caio Soares
+* Nicolly Ribeiro
+* Raphael Muniz
+* Ygor Marangoni
 
 Boa sorte!
