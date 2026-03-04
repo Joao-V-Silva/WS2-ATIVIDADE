@@ -240,7 +240,7 @@ class VagaServiceTest {
             Vaga probe = exampleCaptor.getValue().getProbe();
             assertThat(probe.getFonte()).isEqualTo(filtros.fonte());
 
-            assertThat(probe.getCodigoVaga()).isEqualTo("99999");
+            assertThat(probe.getCodigoVaga()).isEqualTo("12345");
         }
     }
 }
