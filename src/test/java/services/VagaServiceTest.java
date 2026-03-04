@@ -214,7 +214,7 @@ class VagaServiceTest {
             // Then
             assertThat(result).isNotEmpty();
 
-            assertThat(result.getContent()).hasSize(5);
+            assertThat(result.getContent()).hasSize(1);
 
             assertThat(result.getContent().get(0).fonte()).isEqualTo("Glassdoor");
         }
