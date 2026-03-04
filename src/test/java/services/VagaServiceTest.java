@@ -84,7 +84,7 @@ class VagaServiceTest {
         void deveSalvarNovaVaga() {
             // Given
             VagaRequestDTO dto = criarVagaRequestDTO();
-            System.out.println("oi")
+            System.out.println("oi");
             Vaga vagaSalvaSimulada = criarVagaEntidade();
 
             when(repository.findByFonteAndCodigoVaga(dto.fonte(), dto.codigoVaga()))
